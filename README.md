@@ -1,6 +1,3 @@
-![Black and Purple Modern Virtual Twitter Header](https://user-images.githubusercontent.com/117542420/203531722-f8610a92-326b-432b-83d1-9bb7ce82dda8.png)
-<h1 align="center"><b>Hi , I'm Mahmoud Hussein El-Hadary </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <br>
 
 - A passionate embedded systems developer
