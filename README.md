@@ -1,12 +1,5 @@
 ![Black and Purple Modern Virtual Twitter Header](https://user-images.githubusercontent.com/117542420/203531722-f8610a92-326b-432b-83d1-9bb7ce82dda8.png)
 <h1 align="center"><b>Hi , I'm Mahmoud Hussein El-Hadary </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  
-</p>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> *About me*
-
-<picture> <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width = 350px></picture>
 
 <br>
 
